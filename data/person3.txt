@@ -1,8 +1,12 @@
 Crystal Miller
 <<<<<<< HEAD
+<<<<<<< HEAD
 2121 Queenstown Ct.
 =======
 2121 Street
 >>>>>>> 7408a3da184c1f939ac8dc603bf755d10aeba032
+=======
+2121 Queenstown Ct.
+>>>>>>> 1a461fa38474bfeb7940b4d8e0900b04eeac1eb4
 New Brighton, MN 55112
 
