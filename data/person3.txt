@@ -1,8 +1,4 @@
 Crystal Miller
 2121 Queenstown Ct.
-<<<<<<< HEAD
-Mission Beach, MN 55112
-=======
-New Brighton, CA 55112
->>>>>>> 7f6cf8eeea8bdb9289628a7972b2d54c903c6432
+Mission Beach, CA 55112
 
